@@ -1,0 +1,1124 @@
+{
+    "101": {
+        "name": "１区",
+        "outlook": 2,
+        "candidates": [
+            {
+                "name": "臼木　秀剛",
+                "party": "国民民主党",
+                "status": "現職"
+            }
+        ]
+    },
+    "202": {
+        "name": "２区",
+        "outlook": 2,
+        "candidates": [
+            {
+                "name": "金濱　亨",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "302": {
+        "name": "２区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "佐々木　真琴",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "402": {
+        "name": "２区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "佐藤　理々香",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "501": {
+        "name": "１区",
+        "outlook": 2,
+        "candidates": [
+            {
+                "name": "木村　佐知子",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "503": {
+        "name": "３区",
+        "outlook": 4,
+        "candidates": [
+            {
+                "name": "村岡　敏英",
+                "party": "国民民主党",
+                "status": "現職"
+            }
+        ]
+    },
+    "602": {
+        "name": "２区",
+        "outlook": 2,
+        "candidates": [
+            {
+                "name": "菊池　大二郎",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "603": {
+        "name": "３区",
+        "outlook": 2,
+        "candidates": [
+            {
+                "name": "喜多　恒介",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "704": {
+        "name": "４区",
+        "outlook": 2,
+        "candidates": [
+            {
+                "name": "山口　洋太",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "802": {
+        "name": "２区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "谷川 祐一",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "805": {
+        "name": "５区",
+        "outlook": 4,
+        "candidates": [
+            {
+                "name": "浅野　哲",
+                "party": "国民民主党",
+                "status": "現職"
+            }
+        ]
+    },
+    "905": {
+        "name": "５区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "寺田　和史",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "1002": {
+        "name": "２区",
+        "outlook": 2,
+        "candidates": [
+            {
+                "name": "原　和隆",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "1102": {
+        "name": "２区",
+        "outlook": 2,
+        "candidates": [
+            {
+                "name": "細谷　はやと",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "1104": {
+        "name": "４区",
+        "outlook": 2,
+        "candidates": [
+            {
+                "name": "岸田　光広",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "1111": {
+        "name": "１１区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "布施　卓人",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "1113": {
+        "name": "１３区",
+        "outlook": 3,
+        "candidates": [
+            {
+                "name": "橋本　幹彦",
+                "party": "国民民主党",
+                "status": "現職"
+            }
+        ]
+    },
+    "1114": {
+        "name": "１４区",
+        "outlook": 3,
+        "candidates": [
+            {
+                "name": "鈴木　義弘",
+                "party": "国民民主党",
+                "status": "現職"
+            }
+        ]
+    },
+    "1205": {
+        "name": "５区",
+        "outlook": 2,
+        "candidates": [
+            {
+                "name": "岡野　純子",
+                "party": "国民民主党",
+                "status": "現職"
+            }
+        ]
+    },
+    "1206": {
+        "name": "６区",
+        "outlook": 2,
+        "candidates": [
+            {
+                "name": "武藤　ゆうだい",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "1207": {
+        "name": "７区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "林田　あきひろ",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "1302": {
+        "name": "２区",
+        "outlook": 2,
+        "candidates": [
+            {
+                "name": "鳩山　紀一郎",
+                "party": "国民民主党",
+                "status": "現職"
+            }
+        ]
+    },
+    "1303": {
+        "name": "３区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "石田　慎吾",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "1304": {
+        "name": "４区",
+        "outlook": 2,
+        "candidates": [
+            {
+                "name": "井戸　正枝",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "1305": {
+        "name": "５区",
+        "outlook": 2,
+        "candidates": [
+            {
+                "name": "桒水流　弓紀子",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "1306": {
+        "name": "６区",
+        "outlook": 2,
+        "candidates": [
+            {
+                "name": "丸山　勝己",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "1307": {
+        "name": "７区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "入江　伸子",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "1308": {
+        "name": "８区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "森田　一成",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "1309": {
+        "name": "９区",
+        "outlook": 2,
+        "candidates": [
+            {
+                "name": "薬師寺　道代",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "1310": {
+        "name": "１０区",
+        "outlook": 2,
+        "candidates": [
+            {
+                "name": "梶原　みずほ",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "1311": {
+        "name": "１１区",
+        "outlook": 2,
+        "candidates": [
+            {
+                "name": "高沢　一基",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "1312": {
+        "name": "１２区",
+        "outlook": 2,
+        "candidates": [
+            {
+                "name": "久住　勇樹",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "1313": {
+        "name": "１３区",
+        "outlook": 2,
+        "candidates": [
+            {
+                "name": "森　洋介",
+                "party": "国民民主党",
+                "status": "現職"
+            }
+        ]
+    },
+    "1314": {
+        "name": "１４区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "長南　貴則",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "1315": {
+        "name": "１５区",
+        "outlook": 2,
+        "candidates": [
+            {
+                "name": "深見　紗采",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "1316": {
+        "name": "１６区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "竹内　知子",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "1317": {
+        "name": "１７区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "長谷川　貴子",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "1318": {
+        "name": "１８区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "鈴木　佑馬",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "1319": {
+        "name": "１９区",
+        "outlook": 2,
+        "candidates": [
+            {
+                "name": "諏訪　玲子",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "1320": {
+        "name": "２０区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "大西　健太郎",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "1321": {
+        "name": "２１区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "黒田　太郎",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "1324": {
+        "name": "２４区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "細屋　椋",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "1325": {
+        "name": "２５区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "宗像　久敬",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "1326": {
+        "name": "２６区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "坂元　悠紀",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "1327": {
+        "name": "２７区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "須山　卓知",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "1328": {
+        "name": "２８区",
+        "outlook": 2,
+        "candidates": [
+            {
+                "name": "三澤　宏明",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "1329": {
+        "name": "２９区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "たるい　良和",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "1330": {
+        "name": "３０区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "川上　竜世",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "1402": {
+        "name": "２区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "片山　ちえ",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "1403": {
+        "name": "３区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "二宮　研",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "1410": {
+        "name": "１０区",
+        "outlook": 2,
+        "candidates": [
+            {
+                "name": "山口　翔平",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "1417": {
+        "name": "１７区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "中村　太一",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "1418": {
+        "name": "１８区",
+        "outlook": 2,
+        "candidates": [
+            {
+                "name": "西岡　義高",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "1419": {
+        "name": "１９区",
+        "outlook": 2,
+        "candidates": [
+            {
+                "name": "深作　ヘスス",
+                "party": "国民民主党",
+                "status": "現職"
+            }
+        ]
+    },
+    "1504": {
+        "name": "４区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "野村　泰暉",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "1603": {
+        "name": "３区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "山本　圭太",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "1701": {
+        "name": "１区",
+        "outlook": 2,
+        "candidates": [
+            {
+                "name": "小竹　凱",
+                "party": "国民民主党",
+                "status": "現職"
+            }
+        ]
+    },
+    "1801": {
+        "name": "１区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "山中　俊祐",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "2004": {
+        "name": "４区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "花岡　明久",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "2102": {
+        "name": "２区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "野村　美穂",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "2103": {
+        "name": "３区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "仙田　晃宏",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "2105": {
+        "name": "５区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "吉田　企貴",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "2201": {
+        "name": "１区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "柴田　将平",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "2204": {
+        "name": "４区",
+        "outlook": 2,
+        "candidates": [
+            {
+                "name": "田中　健",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "2207": {
+        "name": "７区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "北野谷　富子",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "2302": {
+        "name": "２区",
+        "outlook": 4,
+        "candidates": [
+            {
+                "name": "古川　元久",
+                "party": "国民民主党",
+                "status": "現職"
+            }
+        ]
+    },
+    "2307": {
+        "name": "７区",
+        "outlook": 3,
+        "candidates": [
+            {
+                "name": "日野　紗里亜",
+                "party": "国民民主党",
+                "status": "現職"
+            }
+        ]
+    },
+    "2310": {
+        "name": "１０区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "三嶋　竜平",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "2311": {
+        "name": "１１区",
+        "outlook": 3,
+        "candidates": [
+            {
+                "name": "丹野　みどり",
+                "party": "国民民主党",
+                "status": "現職"
+            }
+        ]
+    },
+    "2316": {
+        "name": "１６区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "福田　徹",
+                "party": "国民民主党",
+                "status": "現職"
+            }
+        ]
+    },
+    "2404": {
+        "name": "４区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "藤田　大助",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "2501": {
+        "name": "１区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "河井　昭成",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "2601": {
+        "name": "１区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "桂　隆俊",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "2701": {
+        "name": "１区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "塩野　ともお",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "2704": {
+        "name": "４区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "岡本　忠志",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "2705": {
+        "name": "５区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "前田　ひでみち",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "2708": {
+        "name": "８区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "佐藤　潤",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "2803": {
+        "name": "３区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "向山　好一",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "2811": {
+        "name": "１１区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "中原　立貴",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "2901": {
+        "name": "１区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "杉本葵",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "3001": {
+        "name": "１区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "林　佑美",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "3101": {
+        "name": "１区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "谷川　裕美",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "3301": {
+        "name": "１区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "原　紘志　",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "3304": {
+        "name": "４区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "三宅　沙侑美　",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "3402": {
+        "name": "２区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "福田　玄",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "3404": {
+        "name": "４区",
+        "outlook": 2,
+        "candidates": [
+            {
+                "name": "鍋島　勢理",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "3501": {
+        "name": "１区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "野田　陽志",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "3602": {
+        "name": "２区",
+        "outlook": 2,
+        "candidates": [
+            {
+                "name": "飯泉　嘉門",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "3702": {
+        "name": "２区",
+        "outlook": 5,
+        "candidates": [
+            {
+                "name": "玉木　雄一郎",
+                "party": "国民民主党",
+                "status": "現職"
+            }
+        ]
+    },
+    "3703": {
+        "name": "３区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "川崎　智光",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "3801": {
+        "name": "１区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "石井　智恵",
+                "party": "国民民主党",
+                "status": "現職"
+            }
+        ]
+    },
+    "3902": {
+        "name": "２区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "前田　強",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "4004": {
+        "name": "４区",
+        "outlook": 2,
+        "candidates": [
+            {
+                "name": "許斐　亮太郎",
+                "party": "国民民主党",
+                "status": "現職"
+            }
+        ]
+    },
+    "4005": {
+        "name": "５区",
+        "outlook": 2,
+        "candidates": [
+            {
+                "name": "川元　健一",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "4006": {
+        "name": "６区",
+        "outlook": 2,
+        "candidates": [
+            {
+                "name": "近藤　雅彦",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "4009": {
+        "name": "９区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "大塚　弘尊",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "4201": {
+        "name": "１区",
+        "outlook": 4,
+        "candidates": [
+            {
+                "name": "西岡　秀子",
+                "party": "国民民主党",
+                "status": "現職"
+            }
+        ]
+    },
+    "4304": {
+        "name": "４区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "上田　至",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "4401": {
+        "name": "１区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "堤　淳太",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "4502": {
+        "name": "２区",
+        "outlook": 4,
+        "candidates": [
+            {
+                "name": "長友　慎治",
+                "party": "国民民主党",
+                "status": "現職"
+            }
+        ]
+    },
+    "4604": {
+        "name": "４区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "中村　寿",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    },
+    "4704": {
+        "name": "４区",
+        "outlook": 1,
+        "candidates": [
+            {
+                "name": "﨑枝　裕次",
+                "party": "国民民主党",
+                "status": ""
+            }
+        ]
+    }
+}
