@@ -395,6 +395,12 @@ function closeSidebar() {
     const overlay = document.getElementById('overlay');
     sidebar.classList.remove('open');
     overlay.classList.remove('visible');
+
+    // ハイライトを解除
+    if (selectedLayer) {
+        geojsonLayer.resetStyle(selectedLayer);
+        selectedLayer = null;
+    }
 }
 
 /**
