@@ -1,6 +1,6 @@
 {
     "101": {
-        "name": "１区",
+        "name": "北海道１区",
         "outlook": 2,
         "candidates": [
             {
@@ -11,7 +11,7 @@
         ]
     },
     "202": {
-        "name": "２区",
+        "name": "青森２区",
         "outlook": 2,
         "candidates": [
             {
@@ -22,7 +22,7 @@
         ]
     },
     "302": {
-        "name": "２区",
+        "name": "岩手２区",
         "outlook": 1,
         "candidates": [
             {
@@ -33,7 +33,7 @@
         ]
     },
     "402": {
-        "name": "２区",
+        "name": "宮城２区",
         "outlook": 1,
         "candidates": [
             {
@@ -44,7 +44,7 @@
         ]
     },
     "501": {
-        "name": "１区",
+        "name": "秋田１区",
         "outlook": 2,
         "candidates": [
             {
@@ -55,7 +55,7 @@
         ]
     },
     "503": {
-        "name": "３区",
+        "name": "秋田３区",
         "outlook": 4,
         "candidates": [
             {
@@ -66,7 +66,7 @@
         ]
     },
     "602": {
-        "name": "２区",
+        "name": "山形２区",
         "outlook": 2,
         "candidates": [
             {
@@ -77,7 +77,7 @@
         ]
     },
     "603": {
-        "name": "３区",
+        "name": "山形３区",
         "outlook": 2,
         "candidates": [
             {
@@ -88,7 +88,7 @@
         ]
     },
     "704": {
-        "name": "４区",
+        "name": "福島４区",
         "outlook": 2,
         "candidates": [
             {
@@ -99,7 +99,7 @@
         ]
     },
     "802": {
-        "name": "２区",
+        "name": "茨城２区",
         "outlook": 1,
         "candidates": [
             {
@@ -110,7 +110,7 @@
         ]
     },
     "805": {
-        "name": "５区",
+        "name": "茨城５区",
         "outlook": 4,
         "candidates": [
             {
@@ -121,7 +121,7 @@
         ]
     },
     "905": {
-        "name": "５区",
+        "name": "栃木５区",
         "outlook": 1,
         "candidates": [
             {
@@ -132,7 +132,7 @@
         ]
     },
     "1002": {
-        "name": "２区",
+        "name": "群馬２区",
         "outlook": 2,
         "candidates": [
             {
@@ -143,7 +143,7 @@
         ]
     },
     "1102": {
-        "name": "２区",
+        "name": "埼玉２区",
         "outlook": 2,
         "candidates": [
             {
@@ -154,7 +154,7 @@
         ]
     },
     "1104": {
-        "name": "４区",
+        "name": "埼玉４区",
         "outlook": 2,
         "candidates": [
             {
@@ -165,7 +165,7 @@
         ]
     },
     "1111": {
-        "name": "１１区",
+        "name": "埼玉１１区",
         "outlook": 1,
         "candidates": [
             {
@@ -176,7 +176,7 @@
         ]
     },
     "1113": {
-        "name": "１３区",
+        "name": "埼玉１３区",
         "outlook": 3,
         "candidates": [
             {
@@ -187,7 +187,7 @@
         ]
     },
     "1114": {
-        "name": "１４区",
+        "name": "埼玉１４区",
         "outlook": 3,
         "candidates": [
             {
@@ -198,7 +198,7 @@
         ]
     },
     "1205": {
-        "name": "５区",
+        "name": "千葉５区",
         "outlook": 2,
         "candidates": [
             {
@@ -209,7 +209,7 @@
         ]
     },
     "1206": {
-        "name": "６区",
+        "name": "千葉６区",
         "outlook": 2,
         "candidates": [
             {
@@ -220,7 +220,7 @@
         ]
     },
     "1207": {
-        "name": "７区",
+        "name": "千葉７区",
         "outlook": 1,
         "candidates": [
             {
@@ -231,7 +231,7 @@
         ]
     },
     "1302": {
-        "name": "２区",
+        "name": "東京２区",
         "outlook": 2,
         "candidates": [
             {
@@ -242,7 +242,7 @@
         ]
     },
     "1303": {
-        "name": "３区",
+        "name": "東京３区",
         "outlook": 1,
         "candidates": [
             {
@@ -253,7 +253,7 @@
         ]
     },
     "1304": {
-        "name": "４区",
+        "name": "東京４区",
         "outlook": 2,
         "candidates": [
             {
@@ -264,7 +264,7 @@
         ]
     },
     "1305": {
-        "name": "５区",
+        "name": "東京５区",
         "outlook": 2,
         "candidates": [
             {
@@ -275,7 +275,7 @@
         ]
     },
     "1306": {
-        "name": "６区",
+        "name": "東京６区",
         "outlook": 2,
         "candidates": [
             {
@@ -286,7 +286,7 @@
         ]
     },
     "1307": {
-        "name": "７区",
+        "name": "東京７区",
         "outlook": 1,
         "candidates": [
             {
@@ -297,7 +297,7 @@
         ]
     },
     "1308": {
-        "name": "８区",
+        "name": "東京８区",
         "outlook": 1,
         "candidates": [
             {
@@ -308,7 +308,7 @@
         ]
     },
     "1309": {
-        "name": "９区",
+        "name": "東京９区",
         "outlook": 2,
         "candidates": [
             {
@@ -319,7 +319,7 @@
         ]
     },
     "1310": {
-        "name": "１０区",
+        "name": "東京１０区",
         "outlook": 2,
         "candidates": [
             {
@@ -330,7 +330,7 @@
         ]
     },
     "1311": {
-        "name": "１１区",
+        "name": "東京１１区",
         "outlook": 2,
         "candidates": [
             {
@@ -341,7 +341,7 @@
         ]
     },
     "1312": {
-        "name": "１２区",
+        "name": "東京１２区",
         "outlook": 2,
         "candidates": [
             {
@@ -352,7 +352,7 @@
         ]
     },
     "1313": {
-        "name": "１３区",
+        "name": "東京１３区",
         "outlook": 2,
         "candidates": [
             {
@@ -363,7 +363,7 @@
         ]
     },
     "1314": {
-        "name": "１４区",
+        "name": "東京１４区",
         "outlook": 1,
         "candidates": [
             {
@@ -374,7 +374,7 @@
         ]
     },
     "1315": {
-        "name": "１５区",
+        "name": "東京１５区",
         "outlook": 2,
         "candidates": [
             {
@@ -385,7 +385,7 @@
         ]
     },
     "1316": {
-        "name": "１６区",
+        "name": "東京１６区",
         "outlook": 1,
         "candidates": [
             {
@@ -396,7 +396,7 @@
         ]
     },
     "1317": {
-        "name": "１７区",
+        "name": "東京１７区",
         "outlook": 1,
         "candidates": [
             {
@@ -407,7 +407,7 @@
         ]
     },
     "1318": {
-        "name": "１８区",
+        "name": "東京１８区",
         "outlook": 1,
         "candidates": [
             {
@@ -418,7 +418,7 @@
         ]
     },
     "1319": {
-        "name": "１９区",
+        "name": "東京１９区",
         "outlook": 2,
         "candidates": [
             {
@@ -429,7 +429,7 @@
         ]
     },
     "1320": {
-        "name": "２０区",
+        "name": "東京２０区",
         "outlook": 1,
         "candidates": [
             {
@@ -440,7 +440,7 @@
         ]
     },
     "1321": {
-        "name": "２１区",
+        "name": "東京２１区",
         "outlook": 1,
         "candidates": [
             {
@@ -451,7 +451,7 @@
         ]
     },
     "1324": {
-        "name": "２４区",
+        "name": "東京２４区",
         "outlook": 1,
         "candidates": [
             {
@@ -462,7 +462,7 @@
         ]
     },
     "1325": {
-        "name": "２５区",
+        "name": "東京２５区",
         "outlook": 1,
         "candidates": [
             {
@@ -473,7 +473,7 @@
         ]
     },
     "1326": {
-        "name": "２６区",
+        "name": "東京２６区",
         "outlook": 1,
         "candidates": [
             {
@@ -484,7 +484,7 @@
         ]
     },
     "1327": {
-        "name": "２７区",
+        "name": "東京２７区",
         "outlook": 1,
         "candidates": [
             {
@@ -495,7 +495,7 @@
         ]
     },
     "1328": {
-        "name": "２８区",
+        "name": "東京２８区",
         "outlook": 2,
         "candidates": [
             {
@@ -506,7 +506,7 @@
         ]
     },
     "1329": {
-        "name": "２９区",
+        "name": "東京２９区",
         "outlook": 1,
         "candidates": [
             {
@@ -517,7 +517,7 @@
         ]
     },
     "1330": {
-        "name": "３０区",
+        "name": "東京３０区",
         "outlook": 1,
         "candidates": [
             {
@@ -528,7 +528,7 @@
         ]
     },
     "1402": {
-        "name": "２区",
+        "name": "神奈川２区",
         "outlook": 1,
         "candidates": [
             {
@@ -539,7 +539,7 @@
         ]
     },
     "1403": {
-        "name": "３区",
+        "name": "神奈川３区",
         "outlook": 1,
         "candidates": [
             {
@@ -550,7 +550,7 @@
         ]
     },
     "1410": {
-        "name": "１０区",
+        "name": "神奈川１０区",
         "outlook": 2,
         "candidates": [
             {
@@ -561,7 +561,7 @@
         ]
     },
     "1417": {
-        "name": "１７区",
+        "name": "神奈川１７区",
         "outlook": 1,
         "candidates": [
             {
@@ -572,7 +572,7 @@
         ]
     },
     "1418": {
-        "name": "１８区",
+        "name": "神奈川１８区",
         "outlook": 2,
         "candidates": [
             {
@@ -583,7 +583,7 @@
         ]
     },
     "1419": {
-        "name": "１９区",
+        "name": "神奈川１９区",
         "outlook": 2,
         "candidates": [
             {
@@ -594,7 +594,7 @@
         ]
     },
     "1504": {
-        "name": "４区",
+        "name": "新潟４区",
         "outlook": 1,
         "candidates": [
             {
@@ -605,7 +605,7 @@
         ]
     },
     "1603": {
-        "name": "３区",
+        "name": "富山３区",
         "outlook": 1,
         "candidates": [
             {
@@ -616,7 +616,7 @@
         ]
     },
     "1701": {
-        "name": "１区",
+        "name": "石川１区",
         "outlook": 2,
         "candidates": [
             {
@@ -627,7 +627,7 @@
         ]
     },
     "1801": {
-        "name": "１区",
+        "name": "福井１区",
         "outlook": 1,
         "candidates": [
             {
@@ -638,7 +638,7 @@
         ]
     },
     "2004": {
-        "name": "４区",
+        "name": "長野４区",
         "outlook": 1,
         "candidates": [
             {
@@ -649,7 +649,7 @@
         ]
     },
     "2102": {
-        "name": "２区",
+        "name": "岐阜２区",
         "outlook": 1,
         "candidates": [
             {
@@ -660,7 +660,7 @@
         ]
     },
     "2103": {
-        "name": "３区",
+        "name": "岐阜３区",
         "outlook": 1,
         "candidates": [
             {
@@ -671,7 +671,7 @@
         ]
     },
     "2105": {
-        "name": "５区",
+        "name": "岐阜５区",
         "outlook": 1,
         "candidates": [
             {
@@ -682,7 +682,7 @@
         ]
     },
     "2201": {
-        "name": "１区",
+        "name": "静岡１区",
         "outlook": 1,
         "candidates": [
             {
@@ -693,7 +693,7 @@
         ]
     },
     "2204": {
-        "name": "４区",
+        "name": "静岡４区",
         "outlook": 2,
         "candidates": [
             {
@@ -704,7 +704,7 @@
         ]
     },
     "2207": {
-        "name": "７区",
+        "name": "静岡７区",
         "outlook": 1,
         "candidates": [
             {
@@ -715,7 +715,7 @@
         ]
     },
     "2302": {
-        "name": "２区",
+        "name": "愛知２区",
         "outlook": 4,
         "candidates": [
             {
@@ -726,7 +726,7 @@
         ]
     },
     "2307": {
-        "name": "７区",
+        "name": "愛知７区",
         "outlook": 3,
         "candidates": [
             {
@@ -737,7 +737,7 @@
         ]
     },
     "2310": {
-        "name": "１０区",
+        "name": "愛知１０区",
         "outlook": 1,
         "candidates": [
             {
@@ -748,7 +748,7 @@
         ]
     },
     "2311": {
-        "name": "１１区",
+        "name": "愛知１１区",
         "outlook": 3,
         "candidates": [
             {
@@ -759,7 +759,7 @@
         ]
     },
     "2316": {
-        "name": "１６区",
+        "name": "愛知１６区",
         "outlook": 1,
         "candidates": [
             {
@@ -770,7 +770,7 @@
         ]
     },
     "2404": {
-        "name": "４区",
+        "name": "三重４区",
         "outlook": 1,
         "candidates": [
             {
@@ -781,7 +781,7 @@
         ]
     },
     "2501": {
-        "name": "１区",
+        "name": "滋賀１区",
         "outlook": 1,
         "candidates": [
             {
@@ -792,7 +792,7 @@
         ]
     },
     "2601": {
-        "name": "１区",
+        "name": "京都１区",
         "outlook": 1,
         "candidates": [
             {
@@ -803,7 +803,7 @@
         ]
     },
     "2701": {
-        "name": "１区",
+        "name": "大阪１区",
         "outlook": 1,
         "candidates": [
             {
@@ -814,7 +814,7 @@
         ]
     },
     "2704": {
-        "name": "４区",
+        "name": "大阪４区",
         "outlook": 1,
         "candidates": [
             {
@@ -825,7 +825,7 @@
         ]
     },
     "2705": {
-        "name": "５区",
+        "name": "大阪５区",
         "outlook": 1,
         "candidates": [
             {
@@ -836,7 +836,7 @@
         ]
     },
     "2708": {
-        "name": "８区",
+        "name": "大阪８区",
         "outlook": 1,
         "candidates": [
             {
@@ -847,7 +847,7 @@
         ]
     },
     "2803": {
-        "name": "３区",
+        "name": "兵庫３区",
         "outlook": 1,
         "candidates": [
             {
@@ -858,7 +858,7 @@
         ]
     },
     "2811": {
-        "name": "１１区",
+        "name": "兵庫１１区",
         "outlook": 1,
         "candidates": [
             {
@@ -869,7 +869,7 @@
         ]
     },
     "2901": {
-        "name": "１区",
+        "name": "奈良１区",
         "outlook": 1,
         "candidates": [
             {
@@ -880,7 +880,7 @@
         ]
     },
     "3001": {
-        "name": "１区",
+        "name": "和歌山１区",
         "outlook": 1,
         "candidates": [
             {
@@ -891,7 +891,7 @@
         ]
     },
     "3101": {
-        "name": "１区",
+        "name": "鳥取１区",
         "outlook": 1,
         "candidates": [
             {
@@ -902,7 +902,7 @@
         ]
     },
     "3301": {
-        "name": "１区",
+        "name": "岡山１区",
         "outlook": 1,
         "candidates": [
             {
@@ -913,7 +913,7 @@
         ]
     },
     "3304": {
-        "name": "４区",
+        "name": "岡山４区",
         "outlook": 1,
         "candidates": [
             {
@@ -924,7 +924,7 @@
         ]
     },
     "3402": {
-        "name": "２区",
+        "name": "広島２区",
         "outlook": 1,
         "candidates": [
             {
@@ -935,7 +935,7 @@
         ]
     },
     "3404": {
-        "name": "４区",
+        "name": "広島４区",
         "outlook": 2,
         "candidates": [
             {
@@ -946,7 +946,7 @@
         ]
     },
     "3501": {
-        "name": "１区",
+        "name": "山口１区",
         "outlook": 1,
         "candidates": [
             {
@@ -957,7 +957,7 @@
         ]
     },
     "3602": {
-        "name": "２区",
+        "name": "徳島２区",
         "outlook": 2,
         "candidates": [
             {
@@ -968,7 +968,7 @@
         ]
     },
     "3702": {
-        "name": "２区",
+        "name": "香川２区",
         "outlook": 5,
         "candidates": [
             {
@@ -979,7 +979,7 @@
         ]
     },
     "3703": {
-        "name": "３区",
+        "name": "香川３区",
         "outlook": 1,
         "candidates": [
             {
@@ -990,7 +990,7 @@
         ]
     },
     "3801": {
-        "name": "１区",
+        "name": "愛媛１区",
         "outlook": 1,
         "candidates": [
             {
@@ -1001,7 +1001,7 @@
         ]
     },
     "3902": {
-        "name": "２区",
+        "name": "高知２区",
         "outlook": 1,
         "candidates": [
             {
@@ -1012,7 +1012,7 @@
         ]
     },
     "4004": {
-        "name": "４区",
+        "name": "福岡４区",
         "outlook": 2,
         "candidates": [
             {
@@ -1023,7 +1023,7 @@
         ]
     },
     "4005": {
-        "name": "５区",
+        "name": "福岡５区",
         "outlook": 2,
         "candidates": [
             {
@@ -1034,7 +1034,7 @@
         ]
     },
     "4006": {
-        "name": "６区",
+        "name": "福岡６区",
         "outlook": 2,
         "candidates": [
             {
@@ -1045,7 +1045,7 @@
         ]
     },
     "4009": {
-        "name": "９区",
+        "name": "福岡９区",
         "outlook": 1,
         "candidates": [
             {
@@ -1056,7 +1056,7 @@
         ]
     },
     "4201": {
-        "name": "１区",
+        "name": "長崎１区",
         "outlook": 4,
         "candidates": [
             {
@@ -1067,7 +1067,7 @@
         ]
     },
     "4304": {
-        "name": "４区",
+        "name": "熊本４区",
         "outlook": 1,
         "candidates": [
             {
@@ -1078,7 +1078,7 @@
         ]
     },
     "4401": {
-        "name": "１区",
+        "name": "大分１区",
         "outlook": 1,
         "candidates": [
             {
@@ -1089,7 +1089,7 @@
         ]
     },
     "4502": {
-        "name": "２区",
+        "name": "宮崎２区",
         "outlook": 4,
         "candidates": [
             {
@@ -1100,7 +1100,7 @@
         ]
     },
     "4604": {
-        "name": "４区",
+        "name": "鹿児島４区",
         "outlook": 1,
         "candidates": [
             {
@@ -1111,7 +1111,7 @@
         ]
     },
     "4704": {
-        "name": "４区",
+        "name": "沖縄４区",
         "outlook": 1,
         "candidates": [
             {

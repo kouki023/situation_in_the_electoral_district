@@ -189,7 +189,7 @@ function addGeoJSONLayer(geojsonData) {
  * 各フィーチャーのスタイルを取得
  */
 function getFeatureStyle(feature) {
-    const kucode = feature.properties.kucode;
+    const kucode = String(feature.properties.kucode);
     const candidateData = CANDIDATES_DATA[kucode];
     const outlook = candidateData ? candidateData.outlook : 'competitive';
     const color = OUTLOOK_COLORS[outlook] || OUTLOOK_COLORS.competitive;
@@ -232,7 +232,7 @@ function onEachFeature(feature, layer) {
  * 選挙区名を取得
  */
 function getDistrictName(ken, ku, kucode) {
-    const candidateData = CANDIDATES_DATA[kucode];
+    const candidateData = CANDIDATES_DATA[String(kucode)];
     if (candidateData) {
         return candidateData.name;
     }
@@ -353,7 +353,7 @@ function showDistrictInfo(ken, ku, kucode) {
     const candidatesList = document.getElementById('candidates-list');
 
     const districtName = getDistrictName(ken, ku, kucode);
-    const candidateData = CANDIDATES_DATA[kucode];
+    const candidateData = CANDIDATES_DATA[String(kucode)];
 
     // 選挙区名を表示
     districtNameEl.textContent = districtName;
